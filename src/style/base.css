@@ -1,0 +1,27 @@
+:root {
+    --color-blue-l: #00B7EC;
+    --color-blue-d: #1998D5;
+    --color-blue-m: #14AFE8;
+
+    --color-green-l: #9BCC37;
+    --color-green-d: #77BA04;
+
+    --color-gray: #666666;
+
+    --color-red: #FD7583;
+
+    --side-padding: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
